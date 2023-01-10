@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1,Telesur Costa Rica 24 horas
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1008732348.m3u8
+#EXTINF:-1, paka paka 24 horas
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w406289723.m3u8
+#EXTINF:-1,Retro Plus TV 24 horas
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1907886609.m3u8
+#EXTINF:-1,TVS Retro 24 horas
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1,Runtime Español 24 horas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1,canela tv 24 horas
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
+#EXTINF:-1,canal 26 24 horas
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1345209459_b1864000_sleng.m3u8
+#EXTINF:-1,cosmo tv 24 horas
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1,music top 24 horas
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,Encuentro 24 horas
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w758510727.m3u8
+#EXTINF:-1,canal 9 24 horas
+https://n9.cl/yhkkl
+#EXTINF:-1,viajar tv 24 horas
+https://n9.cl/v7iz5
+#EXTINF:-1,mexico viaje 24 horas
+https://n9.cl/vpnjy
+#EXTINF:-1,amordisco tv 24 horas
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+#EXTINF:-1,ritmos inolvidables 24 horas
+https://n9.cl/i1lg3
+#EXTINF:-1,UCL TV 24 horas
+https://n9.cl/mhhi8v
